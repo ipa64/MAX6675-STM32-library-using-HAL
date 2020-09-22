@@ -10,8 +10,7 @@
 #define bool BYTE
 
 #include "Max6675.h"
-#include "stm32f1xx_hal.h"
-#include "main.h"
+
 
 
 /* SPI Receive one Byte */
