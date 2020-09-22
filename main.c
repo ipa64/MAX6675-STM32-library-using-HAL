@@ -134,7 +134,7 @@ int main(void)
  	  // 	 SSD1306_Puts ("disconnected", &Font_7x10, 1);
  	  // 	 SSD1306_UpdateScreen(); // update screen
  	  // }
-
+	  HAL_Delay(300);
   }
 }
 
